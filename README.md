@@ -8,7 +8,7 @@
 - CSS3
 - Figma ( Prototipação )
 
-[Layout para visualização](https://www.figma.com/file/uqZEZuiyl5ciIoPeA8Wkbc/P%C3%A1gina_tr%C3%ADbuto?node-id=6%3A145)
+[Layout para visualização](https://www.figma.com/file/uqZEZuiyl5ciIoPeA8Wkbc/P%C3%A1gina_tr%C3%ADbuto?node-id=6%3A145)<br>
 [Live preview](https://renancaldasdev.github.io/tributo_mrRobot/)
 
 

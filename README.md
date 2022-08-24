@@ -8,6 +8,8 @@
 - CSS3
 - Figma ( Prototipação )
 
-Layout para visualização - [Figma](https://www.figma.com/file/uqZEZuiyl5ciIoPeA8Wkbc/P%C3%A1gina_tr%C3%ADbuto?node-id=6%3A145)
+[Layout para visualização](https://www.figma.com/file/uqZEZuiyl5ciIoPeA8Wkbc/P%C3%A1gina_tr%C3%ADbuto?node-id=6%3A145)
+[Live preview](https://renancaldasdev.github.io/tributo_mrRobot/)
 
-<renan@renancaldas.dev.br>
+
+<p>Feito com toda a dedicação 👨‍💻 por Renan Caldas</p>
